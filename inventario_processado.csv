@@ -1,0 +1,5 @@
+id,ativo_nome,categoria,departamento,custo_mensal_usd,status,data_aquisicao,projeção_custo_2026
+1,Servidor-Dell-R740,Servidor Físico,TI,450.0,Ativo,2024-01-15,517.5
+2,Instancia-Prod-Web,Cloud EC2,Marketing,120.0,Ativo,2025-05-01,138.0
+3,Switch-Cisco-2960,Switch,Redes,80.0,Ativo,2023-11-20,92.0
+4,DB-Aurora-Postgres,Cloud RDS,Financeiro,350.0,Ativo,2026-02-10,402.49999999999994
